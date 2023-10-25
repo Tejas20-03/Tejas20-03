@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Tejas20-03/Tejas20-03/output/snake.svg" alt="Snake animation" />
+<img src=".github/webflows/snake.yml" alt="Snake animation" />
 
 ###
